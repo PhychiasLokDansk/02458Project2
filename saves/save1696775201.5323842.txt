@@ -1,0 +1,4 @@
+1, .\Anger\AF01AFS.JPG, 5.0
+2, .\Anger\AF01DIS.JPG, 6.0
+3, .\Anger\AF01HAS.JPG, 7.0
+4, .\Anger\AF01NES.JPG, 0.0
